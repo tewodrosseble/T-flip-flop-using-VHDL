@@ -1,0 +1,7 @@
+|Tflipflopusingvhdl
+clk => q_reg.CLK
+reset => q_reg.ACLR
+t => q_reg.ENA
+q <= q_reg.DB_MAX_OUTPUT_PORT_TYPE
+
+
